@@ -1,0 +1,446 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1734940565576003, "dur":23549, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734940565599558, "dur":124, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734940565599712, "dur":362, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734940565600282, "dur":124, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":0, "ts":1734940565600801, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734940565601060, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734940565601312, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734940565601482, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734940565601635, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734940565601797, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734940565601985, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734940565602328, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734940565602724, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734940565603387, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Web projects/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1734940565600093, "dur":3472, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734940565603566, "dur":896960, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734940566500528, "dur":275, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734940566500803, "dur":216, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734940566501245, "dur":1227, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1734940565600527, "dur":3085, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734940565604539, "dur":794, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"D:/Unity/Unity Hub/6000.0.22f1/Editor/Data/il2cpp/build/deploy" }}
+,{ "pid":12345, "tid":1, "ts":1734940565605334, "dur":2526, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"D:/Unity/Unity Hub/6000.0.22f1/Editor/Data/il2cpp/libil2cpp" }}
+,{ "pid":12345, "tid":1, "ts":1734940565607896, "dur":611, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"D:/Unity/Unity Hub/6000.0.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono" }}
+,{ "pid":12345, "tid":1, "ts":1734940565608532, "dur":58, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"D:/Unity/Unity Hub/6000.0.22f1/Editor/Data/Tools/BuildPipeline" }}
+,{ "pid":12345, "tid":1, "ts":1734940565608590, "dur":53, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"Library/PlayerDataCache/Win642/Data" }}
+,{ "pid":12345, "tid":1, "ts":1734940565603621, "dur":5058, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734940565608739, "dur":939, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker D:/Unity/Eagle Simulator/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":1, "ts":1734940565609678, "dur":474, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734940565610693, "dur":53614, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940565610674, "dur":53635, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940565664849, "dur":19365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940565684239, "dur":138977, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940565684220, "dur":138999, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940565823253, "dur":2076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940565825353, "dur":46888, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940565825334, "dur":46910, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940565872271, "dur":1254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940565873541, "dur":139736, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940565873529, "dur":139750, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940566013297, "dur":1033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940566014351, "dur":40492, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940566014334, "dur":40511, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940566054860, "dur":2268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940566057144, "dur":41130, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940566057132, "dur":41163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940566098315, "dur":2766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940566101107, "dur":216878, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940566101085, "dur":216902, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940566318015, "dur":4411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940566322454, "dur":34752, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940566322430, "dur":34779, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940566357244, "dur":1086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734940566358333, "dur":142224, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734940565601563, "dur":2278, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734940565603845, "dur":975, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734940565604821, "dur":683, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734940565605504, "dur":3674, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734940565609179, "dur":1595, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734940565610898, "dur":409685, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734940565610777, "dur":409809, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734940566020660, "dur":13956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734940566034633, "dur":38946, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734940566034620, "dur":38961, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734940566073604, "dur":1114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734940566074737, "dur":313614, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734940566074722, "dur":313631, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734940566388368, "dur":1537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734940566389909, "dur":110701, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734940565600695, "dur":2966, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734940565603674, "dur":792, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734940565604467, "dur":605, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734940565605073, "dur":4053, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734940565609127, "dur":1547, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734940565610708, "dur":75419, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734940565610675, "dur":75454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734940565686144, "dur":16228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734940565702394, "dur":173582, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734940565702375, "dur":173603, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734940565875994, "dur":3320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734940565879340, "dur":188627, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734940565879320, "dur":188650, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734940566067991, "dur":2110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734940566070117, "dur":398308, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734940566070105, "dur":398322, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734940566468452, "dur":1154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734940566469609, "dur":31028, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734940565600781, "dur":2896, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734940565603679, "dur":608, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734940565604288, "dur":266, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734940565604554, "dur":460, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734940565605015, "dur":3674, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734940565608689, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1734940565609081, "dur":1591, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734940565610699, "dur":117882, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940565610673, "dur":117910, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940565728614, "dur":2714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940565731353, "dur":92481, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940565731333, "dur":92503, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940565823850, "dur":2355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940565826221, "dur":38035, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940565826208, "dur":38050, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940565864279, "dur":3624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940565867923, "dur":36649, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940565867908, "dur":36666, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940565904589, "dur":1354, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940565905959, "dur":100791, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940565905945, "dur":100808, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940566006784, "dur":2666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940566009478, "dur":40909, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940566009454, "dur":40936, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940566050419, "dur":3879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940566054322, "dur":101469, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940566054303, "dur":101490, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940566155815, "dur":4328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940566160160, "dur":152943, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940566160146, "dur":152960, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940566313129, "dur":5618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940566318762, "dur":136892, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940566318751, "dur":136905, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940566455686, "dur":1027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734940566456715, "dur":43857, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734940565600834, "dur":2850, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734940565603687, "dur":369, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734940565604057, "dur":513, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734940565604570, "dur":346, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734940565604916, "dur":535, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734940565605451, "dur":3715, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734940565609167, "dur":1630, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1734940565610849, "dur":89311, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734940565610798, "dur":89364, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734940565700183, "dur":2078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734940565702280, "dur":53864, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734940565702265, "dur":53881, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734940565756172, "dur":1497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734940565757684, "dur":122702, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734940565757672, "dur":122716, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734940565880403, "dur":8449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734940565888873, "dur":48440, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734940565888857, "dur":48459, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734940565937343, "dur":6708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734940565944077, "dur":147803, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734940565944054, "dur":147828, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734940566091910, "dur":1494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734940566093423, "dur":135555, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734940566093408, "dur":135573, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734940566229008, "dur":1343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734940566230367, "dur":207611, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734940566230355, "dur":207625, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734940566438002, "dur":1002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1734940566439007, "dur":61538, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734940565600943, "dur":2753, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734940565603704, "dur":658, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734940565604362, "dur":268, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734940565604630, "dur":397, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734940565605027, "dur":3660, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734940565609071, "dur":1605, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1734940565610711, "dur":55477, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940565610683, "dur":55507, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940565680822, "dur":3687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940565684529, "dur":45192, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940565684512, "dur":45211, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940565729746, "dur":1824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940565731582, "dur":99142, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940565731572, "dur":99154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940565830750, "dur":2029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940565832796, "dur":55100, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940565832782, "dur":55115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940565887918, "dur":6808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940565894751, "dur":51207, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940565894730, "dur":51229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940565945978, "dur":6534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940565952539, "dur":103360, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940565952518, "dur":103382, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940566055919, "dur":3028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940566058961, "dur":49069, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940566058950, "dur":49082, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940566108048, "dur":6735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940566114804, "dur":74115, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940566114787, "dur":74134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940566188951, "dur":2339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940566191308, "dur":49336, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940566191294, "dur":49353, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940566240677, "dur":1115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940566241810, "dur":80144, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940566241796, "dur":80160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940566321972, "dur":4858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1734940566326834, "dur":173677, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734940565601044, "dur":2712, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734940565603767, "dur":1071, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734940565604840, "dur":638, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734940565605479, "dur":3639, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734940565609119, "dur":1672, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1734940565610871, "dur":102047, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734940565610792, "dur":102128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734940565712938, "dur":1082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734940565714033, "dur":70728, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734940565714022, "dur":70742, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734940565784784, "dur":865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734940565785664, "dur":50191, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734940565785652, "dur":50205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734940565835898, "dur":3455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734940565839374, "dur":196536, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734940565839358, "dur":196555, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734940566035942, "dur":1172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734940566037137, "dur":63085, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734940566037117, "dur":63107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734940566100246, "dur":3803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734940566104065, "dur":304017, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734940566104053, "dur":304031, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734940566408100, "dur":1413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1734940566409515, "dur":90998, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734940565601102, "dur":2676, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734940565603784, "dur":879, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734940565604664, "dur":710, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734940565605374, "dur":3749, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734940565609123, "dur":1583, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1734940565610816, "dur":83382, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734940565610710, "dur":83490, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734940565694229, "dur":2202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734940565696460, "dur":159199, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734940565696436, "dur":159226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734940565855679, "dur":1949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734940565857644, "dur":44420, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734940565857632, "dur":44434, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734940565902082, "dur":3147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734940565905251, "dur":38984, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734940565905233, "dur":39004, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734940565944259, "dur":4457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734940565948740, "dur":204771, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734940565948721, "dur":204793, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734940566153554, "dur":1281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734940566154850, "dur":71523, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\netstandard.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734940566154839, "dur":71536, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734940566226401, "dur":9365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734940566235785, "dur":107257, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734940566235770, "dur":107274, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734940566343086, "dur":1195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1734940566344284, "dur":156346, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734940565601240, "dur":2553, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734940565603798, "dur":801, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734940565604600, "dur":836, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734940565605436, "dur":3685, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734940565609122, "dur":1649, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1734940565610883, "dur":175613, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734940565610788, "dur":175710, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734940565786511, "dur":8603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734940565795133, "dur":35745, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734940565795119, "dur":35761, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734940565830900, "dur":1657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734940565832575, "dur":47376, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734940565832562, "dur":47391, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734940565879970, "dur":1089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734940565881085, "dur":83331, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734940565881063, "dur":83355, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734940565964451, "dur":1707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734940565966185, "dur":67360, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734940565966163, "dur":67385, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734940566033583, "dur":1194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734940566034791, "dur":135481, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734940566034779, "dur":135494, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734940566170286, "dur":1166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734940566171467, "dur":294880, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734940566171456, "dur":294894, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734940566466389, "dur":916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1734940566467308, "dur":33299, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734940565601372, "dur":2440, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734940565603819, "dur":954, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734940565604774, "dur":360, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734940565605135, "dur":4040, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734940565609176, "dur":1563, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1734940565610886, "dur":73962, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734940565610741, "dur":74108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734940565684873, "dur":3140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734940565688028, "dur":119232, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734940565688017, "dur":119245, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734940565807313, "dur":853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734940565808183, "dur":93068, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734940565808169, "dur":93085, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734940565901288, "dur":1440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734940565902744, "dur":53226, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734940565902732, "dur":53241, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734940565956005, "dur":1271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734940565957296, "dur":98020, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734940565957280, "dur":98038, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734940566055339, "dur":6928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734940566062289, "dur":435193, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\mscorlib.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734940566062272, "dur":435212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":10, "ts":1734940566497504, "dur":2894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734940565601493, "dur":2336, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734940565603835, "dur":955, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734940565604790, "dur":379, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734940565605169, "dur":3962, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734940565609132, "dur":1611, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1734940565610896, "dur":216784, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734940565610772, "dur":216910, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734940565827700, "dur":5100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734940565832818, "dur":41119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734940565832802, "dur":41137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734940565873976, "dur":2009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734940565876000, "dur":92832, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734940565875988, "dur":92847, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734940565968854, "dur":2422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734940565971291, "dur":284246, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734940565971279, "dur":284260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734940566255594, "dur":5538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734940566261156, "dur":39945, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734940566261137, "dur":39966, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734940566301125, "dur":11318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734940566312464, "dur":93910, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734940566312448, "dur":93928, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734940566406397, "dur":858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1734940566407258, "dur":93271, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734940565601603, "dur":2248, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734940565603855, "dur":936, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734940565604792, "dur":682, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734940565605475, "dur":3665, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734940565609142, "dur":1614, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1734940565610880, "dur":58713, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734940565610778, "dur":58817, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734940565680839, "dur":3538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734940565684391, "dur":108930, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734940565684379, "dur":108944, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734940565793349, "dur":1986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734940565795353, "dur":97179, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734940565795338, "dur":97196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734940565892569, "dur":2524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734940565895112, "dur":74203, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734940565895096, "dur":74221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734940565969332, "dur":2625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734940565971973, "dur":184391, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734940565971960, "dur":184406, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734940566156407, "dur":16415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734940566172834, "dur":244886, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734940566172824, "dur":244897, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734940566417754, "dur":1405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1734940566419162, "dur":81462, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1734940565601666, "dur":2203, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1734940565603873, "dur":715, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1734940565604589, "dur":307, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1734940565604896, "dur":520, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1734940565605416, "dur":3269, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1734940565608756, "dur":1022, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":13, "ts":1734940565609817, "dur":881, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1734940565610719, "dur":194253, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1734940565610702, "dur":194272, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1734940565805002, "dur":1233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1734940565806251, "dur":44569, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":13, "ts":1734940565806239, "dur":44583, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":13, "ts":1734940565850848, "dur":3626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":13, "ts":1734940565854491, "dur":35761, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1734940565854478, "dur":35775, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1734940565890274, "dur":1709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1734940565892003, "dur":83518, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1734940565891987, "dur":83536, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1734940565975547, "dur":2055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1734940565977617, "dur":130000, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":13, "ts":1734940565977606, "dur":130013, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":13, "ts":1734940566107639, "dur":4394, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":13, "ts":1734940566112049, "dur":227023, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1734940566112037, "dur":227037, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1734940566339101, "dur":1371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1734940566340476, "dur":160175, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1734940565601632, "dur":2227, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1734940565603863, "dur":786, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1734940565604650, "dur":771, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1734940565605421, "dur":3728, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1734940565609150, "dur":1585, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1734940565610833, "dur":75293, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940565610738, "dur":75390, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940565686144, "dur":1889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940565688045, "dur":44185, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940565688034, "dur":44198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940565732246, "dur":825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940565733085, "dur":113938, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940565733073, "dur":113952, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940565847053, "dur":1111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940565848184, "dur":93018, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940565848168, "dur":93037, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940565941234, "dur":1841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940565943094, "dur":65535, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940565943079, "dur":65553, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940566008667, "dur":1292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940566009981, "dur":46304, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940566009963, "dur":46324, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940566056306, "dur":2245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940566058568, "dur":111678, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940566058554, "dur":111694, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940566170270, "dur":1277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940566171565, "dur":114920, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940566171550, "dur":114938, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940566286515, "dur":5860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940566292398, "dur":51131, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940566292380, "dur":51151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940566343555, "dur":904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1734940566344460, "dur":156123, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1734940565601703, "dur":2196, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1734940565603905, "dur":698, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1734940565604604, "dur":804, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1734940565605409, "dur":3719, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1734940565609129, "dur":1562, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1734940565610732, "dur":222421, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":15, "ts":1734940565610696, "dur":222459, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":15, "ts":1734940565833177, "dur":3568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":15, "ts":1734940565836762, "dur":50916, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1734940565836749, "dur":50932, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1734940565887715, "dur":2296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1734940565890032, "dur":80403, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":15, "ts":1734940565890016, "dur":80421, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":15, "ts":1734940565970455, "dur":2146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":15, "ts":1734940565972621, "dur":136047, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":15, "ts":1734940565972604, "dur":136066, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":15, "ts":1734940566108687, "dur":8639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":15, "ts":1734940566117344, "dur":267972, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.dll" }}
+,{ "pid":12345, "tid":15, "ts":1734940566117329, "dur":267990, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":15, "ts":1734940566385341, "dur":1495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":15, "ts":1734940566386839, "dur":113758, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1734940565601796, "dur":2110, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1734940565603906, "dur":666, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1734940565604573, "dur":815, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1734940565605389, "dur":3776, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1734940565609166, "dur":1582, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1734940565610857, "dur":58889, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1734940565610752, "dur":58996, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1734940565680876, "dur":3489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1734940565684386, "dur":28156, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1734940565684368, "dur":28177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1734940565712573, "dur":1236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1734940565713825, "dur":81367, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1734940565713813, "dur":81381, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1734940565795219, "dur":4065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1734940565799310, "dur":128704, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1734940565799290, "dur":128726, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1734940565928044, "dur":1432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1734940565929496, "dur":41339, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1734940565929480, "dur":41357, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1734940565970958, "dur":1206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1734940565972179, "dur":126601, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":16, "ts":1734940565972166, "dur":126616, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":16, "ts":1734940566098796, "dur":5468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":16, "ts":1734940566104277, "dur":364581, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.dll" }}
+,{ "pid":12345, "tid":16, "ts":1734940566104266, "dur":364593, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Web projects/Eagle Simulator_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":16, "ts":1734940566468870, "dur":1693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Web projects/Eagle Simulator_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":16, "ts":1734940566470565, "dur":30080, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734940566505053, "dur":655, "ph":"X", "name": "ProfilerWriteOutput" }
+,
